@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+be/venv/
+be/__pycache__
+
+fe/node_modules/
+fe/yarn.lock
